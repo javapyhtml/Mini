@@ -7,32 +7,27 @@
 
 ### 프로젝트 설명  
 **프로젝트 선정 이유**  
-- 지금까지 배운 수업 내용을 기반으로 HTML, CSS, JavaScript를 활용한 프로젝트  
-- 회원가입 서비스와 게시판 서비스 기반의 웹사이트 필요  
-- 시각적인 효과가 두드러지는 페이지 제작 목표  
+- 수업 내용을 기반
+- 정리된 카테고리 필요
+- 필요하다고 느낀 서비스 
 
 **프로젝트 의도 및 목표**  
-- **의도**: 배운 내용 복습 및 파이널 프로젝트 준비  
-- **목표**: 기존 코드 복습 및 필요한 기능 직접 구현하여 코드 이해도 향상  
+- **의도**: 현재까지 배운 Java, DB, JDBC에 대한 복습과 숙달  
+- **목표**: 현재까지 배운 코드들을 사용하여 최대한 완벽에 가깝게 프로그램을 구동하는 것 
 
-**사례 조사 및 주제 선정 이유**  
-- 기존 음악 웹사이트들은 단순히 음악 정보 제공 및 감상에 중점  
-- 노래 및 아티스트에 대한 사용자 의견 교환의 어려움 존재  
-
-### 기대 효과  
-- 사용자 편의성 증대: 번거로운 사이트 이동 불필요  
-- 개인화된 플레이리스트 제작 및 공유 가능  
-- 실시간 차트 및 장르별 인기 차트 확인 가능  
+**기대 효과 및 주제 선정 이유**  
+- 프로그램을 사용하는 회원들이 꾸준히 목표를 세우고 본인이 세운 목표를 이루며 본인의 건강을 관리하게끔 함  
+- 시간을 내서 운동할 여력이 없는 바쁜 현대인들에게 구체적이고 체계적인 데이터들을 제공하여 건강 관리에 소홀해지지 않게 만들어 주기 위함  
 
 ---
 
 ## 2. 팀원 및 팀 소개
 
-| 이수연 | 이시연 | 유기민 | 조다은 | 김태우 |
-|:------:|:------:|:------:|:------:|:------:|
-| <img src="https://i.pinimg.com/736x/bd/05/6e/bd056e0ff7138b992464d96dfffe8ff7.jpg" alt="이수연" width="150" height="150"> | <img src="https://i.pinimg.com/enabled_lo_mid/736x/7e/6b/39/7e6b39d071c5a0dc33fd2d61788b964d.jpg" alt="이시연" width="150" height="150"> | <img src="https://i.pinimg.com/736x/61/4d/64/614d64378dda207992c4c70d29452b84.jpg" alt="유기민" width="150" height="150"> | <img src="https://i.pinimg.com/enabled_lo_mid/736x/f3/9f/42/f39f422326264213a1a871ceb97a6bf1.jpg" alt="조다은" width="150" height="150"> | <img src="https://i.pinimg.com/736x/13/ad/a1/13ada1a3dbb6c57f8fec1c386ea31546.jpg" alt="김태우" width="150" height="150"> |
-| PL | FE | FE | FE | FE |
-| [GitHub](https://github.com/javapyhtml) | [GitHub](https://github.com/) | [GitHub](https://github.com/) | [GitHub](https://github.com/) | [GitHub](https://github.com/su-9woo) |
+| 이수연 | 서종범 | 이진혁 | 최은서 |
+|:------:|:------:|:------:|:------:|
+| <img src="https://i.pinimg.com/736x/bd/05/6e/bd056e0ff7138b992464d96dfffe8ff7.jpg" alt="이수연" width="150" height="150"> | <img src="https://i.pinimg.com/enabled_lo_mid/736x/7e/6b/39/7e6b39d071c5a0dc33fd2d61788b964d.jpg" alt="서종범" width="150" height="150"> | <img src="https://i.pinimg.com/736x/61/4d/64/614d64378dda207992c4c70d29452b84.jpg" alt="이진혁" width="150" height="150"> | <img src="https://i.pinimg.com/enabled_lo_mid/736x/f3/9f/42/f39f422326264213a1a871ceb97a6bf1.jpg" alt="최은서" width="150" height="150"> |
+| PL | FE | FE | FE |
+| [GitHub](https://github.com/javapyhtml) | [GitHub](https://github.com/) | [GitHub](https://github.com/) | [GitHub](https://github.com/) |
 
 ---
 
