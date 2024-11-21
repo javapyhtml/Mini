@@ -25,40 +25,19 @@
 
 | 이수연 | 서종범 | 이진혁 | 최은서 |
 |:------:|:------:|:------:|:------:|
-| <img src="https://i.pinimg.com/736x/bd/05/6e/bd056e0ff7138b992464d96dfffe8ff7.jpg" alt="이수연" width="150" height="150"> | <img src="https://i.pinimg.com/enabled_lo_mid/736x/7e/6b/39/7e6b39d071c5a0dc33fd2d61788b964d.jpg" alt="서종범" width="150" height="150"> | <img src="https://i.pinimg.com/736x/61/4d/64/614d64378dda207992c4c70d29452b84.jpg" alt="이진혁" width="150" height="150"> | <img src="https://i.pinimg.com/enabled_lo_mid/736x/f3/9f/42/f39f422326264213a1a871ceb97a6bf1.jpg" alt="최은서" width="150" height="150"> |
-| PL | FE | FE | FE |
+| <img src="https://i.pinimg.com/enabled_lo_mid/736x/5e/6c/ab/5e6cab0c7e22c88232977228c56301f8.jpg" alt="이수연" width="150" height="150"> | <img src="https://i.pinimg.com/736x/e3/1e/fc/e31efc742b7bb4876d5011459cf88c46.jpg" alt="서종범" width="150" height="150"> | <img src="https://i.pinimg.com/736x/16/9f/3e/169f3e68827b047efc27f048b2d44049.jpg" alt="이진혁" width="150" height="150"> | <img src="https://i.pinimg.com/736x/d9/4e/8c/d94e8c6d7149857e686a56847d6dc932.jpg" alt="최은서" width="150" height="150"> |
+| FE | PL | FE | FE |
 | [GitHub](https://github.com/javapyhtml) | [GitHub](https://github.com/) | [GitHub](https://github.com/) | [GitHub](https://github.com/) |
 
 ---
 
 ## 3. 주요 기능
 
-### 사용자 관련 기능  
-- **회원가입**: 사용자 정보를 DB에 등록  
-- **로그인/로그아웃**: 인증 정보를 활용한 로그인  
-
-### 음악 관련 기능  
-- **음악 실행**:  
-  - 40초간 미리듣기 제공  
-  - 앨범 사진, 노래 이름, 아티스트 표시  
-  - 음량 조절 가능  
-  - 최근 재생목록 버튼으로 이전 기록 확인  
-
-- **음악/아티스트 검색**:  
-  - 음악 검색: 장르, 발매일, 조회수, 좋아요 정보 표시  
-  - 아티스트 검색: 이름, 그룹/솔로 여부, 데뷔일, 소속사 정보 제공  
-
-- **플레이리스트 기능**:  
-  - 사용자 개인화 플레이리스트 생성  
-
-### 게시판 기능  
-- 자유게시판, 아티스트 추천, 노래 추천 게시글 기능  
-- 게시글에 URL 첨부 및 파일 다운로드 지원  
-
-### 홈페이지 주요 기능  
-- 장르별 차트, 노래 TOP 차트, 아티스트별 차트 제공  
-- 좋아요 기반 추천 기능  
-- 실시간 차트 확인  
+**BMI 설정**
+**운동 목표 설정**
+**운동 기록 설정**
+**식단 관리**
+**내 프로필**
 
 ---
 
@@ -66,41 +45,34 @@
 
 | 이름 | 역할 | 담당 작업 |
 |-----------------|-----------------|-----------------|
-| **이수연** | 검색, 인덱스 | 검색, 헤더/푸터 제작 및 CSS |
-| **이시연** | UI 디자인 | 플레이리스트, 로그인, 회원가입 UI 디자인 |
-| **유기민** | 프로젝트 총괄 | 전반적인 프로젝트 관리 |
-| **조다은** | 데이터 관리 | 마이 프로필 페이지 및 DB 연동 |
-| **김태우** | 게시판 개발 | 게시글 및 댓글 관리 페이지 개발 |
+| **이수연** | 백엔드 + 발표 | BMI 설정, 식단 관리, 발표자료 제작 및 발표 |
+| **서종범** | 프로젝트 총괄 | 운동 기록 설정, 프로젝트 코드 총 정리 |
+| **이진혁** | 백엔드 | 운동 목표 설정 및 회원가입 |
+| **최은서** | 디자인 | 내 프로필 담당 및 로고 |
 
 ---
 
 ## 5. 기술 스택
 
 ### 5.1 Language  
-- **HTML5**  
-- **CSS3**  
-- **JavaScript**
+- **Java**
 
 ### 5.2 Frontend  
 - IntelliJ IDEA  
 
 ### 5.3 Backend  
-- Java (Spring Boot)  
+- Java  
 - Oracle Database  
-
-
-### 5.4 기타  
-- Python (웹 크롤링)  
-- AJAX, jQuery  
-
+ 
 ---
 
 ## 6. 벤치마킹 사례
 
-- **플로 (FLO)**: 전체적인 UI 디자인 참고  
-- **지니 (Genie)**: 아티스트 소개 페이지 참고  
-- **멜론 (Melon)**: 노래 소개 UI 및 웹 크롤링 활용  
-- **스포티파이 (Spotify)**: 다크 모드 UI 참고  
+- **삼성 헬스**
+- **NOOM**  
+- **샤오미 MiBand**  
+- **FatSecret**
+- **아이폰 건강** 
 
 ---
 
