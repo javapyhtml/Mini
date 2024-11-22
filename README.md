@@ -26,7 +26,7 @@
 | 이수연 | 서종범 | 이진혁 | 최은서 |
 |:------:|:------:|:------:|:------:|
 | <img src="https://i.pinimg.com/enabled_lo_mid/736x/5e/6c/ab/5e6cab0c7e22c88232977228c56301f8.jpg" alt="이수연" width="150" height="150"> | <img src="https://i.pinimg.com/736x/e3/1e/fc/e31efc742b7bb4876d5011459cf88c46.jpg" alt="서종범" width="150" height="150"> | <img src="https://i.pinimg.com/736x/16/9f/3e/169f3e68827b047efc27f048b2d44049.jpg" alt="이진혁" width="150" height="150"> | <img src="https://i.pinimg.com/736x/d9/4e/8c/d94e8c6d7149857e686a56847d6dc932.jpg" alt="최은서" width="150" height="150"> |
-| FE | PL | FE | FE |
+| BE | PL | BE | BE |
 | [GitHub](https://github.com/javapyhtml) | [GitHub](https://github.com/) | [GitHub](https://github.com/) | [GitHub](https://github.com/) |
 
 ---
